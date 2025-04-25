@@ -1,7 +1,9 @@
 body, html {
     margin: 0;
     font-family: sans-serif;
-    background-color: yellowgreen;
+    font-style: italic;
+    color:white;
+    background-color: black;
 }
 
 .content {
